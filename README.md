@@ -9,6 +9,8 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/)
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Classification-success)]()
 [![Imbalanced Data](https://img.shields.io/badge/Imbalanced--Data-F1%20Optimized-critical)]()
+[![F1 Score](https://img.shields.io/badge/F1--Score-0.87-brightgreen)]()
+[![PR-AUC](https://img.shields.io/badge/PR--AUC-0.95-blue)]()
 
 Un projet complet de Data Mining et d'apprentissage automatique pour prédire si un client sera en défaut de paiement sur sa carte de crédit (**classification binaire**).  
 Le projet suit les **bonnes pratiques industrielles** : prétraitement sans fuite de données, évaluation adaptée au déséquilibre, optimisation du seuil, validation croisée, et artefacts exportables.
