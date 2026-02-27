@@ -1,5 +1,3 @@
-# 💳 Credit Card Default Prediction (Pipeline ML)
-
 # 💳 Credit Risk Prediction using Machine Learning
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue)](https://www.python.org/)
@@ -11,7 +9,6 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/)
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Classification-success)]()
 [![Imbalanced Data](https://img.shields.io/badge/Imbalanced--Data-F1%20Optimized-critical)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Un projet complet de Data Mining et d'apprentissage automatique pour prédire si un client sera en défaut de paiement sur sa carte de crédit (**classification binaire**).  
 Le projet suit les **bonnes pratiques industrielles** : prétraitement sans fuite de données, évaluation adaptée au déséquilibre, optimisation du seuil, validation croisée, et artefacts exportables.
