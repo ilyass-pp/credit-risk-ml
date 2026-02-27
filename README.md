@@ -1,5 +1,18 @@
 # 💳 Credit Card Default Prediction (Pipeline ML)
 
+# 💳 Credit Risk Prediction using Machine Learning
+
+[![Python](https://img.shields.io/badge/Python-3.11-blue)](https://www.python.org/)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)](https://scikit-learn.org/)
+[![XGBoost](https://img.shields.io/badge/XGBoost-Gradient%20Boosting-green)](https://xgboost.readthedocs.io/)
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-black)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-blueviolet)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-red)](https://matplotlib.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/)
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Classification-success)]()
+[![Imbalanced Data](https://img.shields.io/badge/Imbalanced--Data-F1%20Optimized-critical)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Un projet complet de Data Mining et d'apprentissage automatique pour prédire si un client sera en défaut de paiement sur sa carte de crédit (**classification binaire**).  
 Le projet suit les **bonnes pratiques industrielles** : prétraitement sans fuite de données, évaluation adaptée au déséquilibre, optimisation du seuil, validation croisée, et artefacts exportables.
 
